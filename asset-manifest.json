@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnatolyiZholnarsky/x-course-task.git/static/css/main.48ef889b.css",
+    "main.js": "/AnatolyiZholnarsky/x-course-task.git/static/js/main.00d8c7a4.js",
+    "static/media/avatar.png": "/AnatolyiZholnarsky/x-course-task.git/static/media/avatar.0d14c6999b4a5c8e86a7.png",
+    "static/media/avatar2.png": "/AnatolyiZholnarsky/x-course-task.git/static/media/avatar2.85482cfcb73c56a4f79d.png",
+    "index.html": "/AnatolyiZholnarsky/x-course-task.git/index.html",
+    "main.48ef889b.css.map": "/AnatolyiZholnarsky/x-course-task.git/static/css/main.48ef889b.css.map",
+    "main.00d8c7a4.js.map": "/AnatolyiZholnarsky/x-course-task.git/static/js/main.00d8c7a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ef889b.css",
+    "static/js/main.00d8c7a4.js"
+  ]
+}
